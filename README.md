@@ -34,8 +34,8 @@ Je suis un étudiant de 1ère année de BUT Info à Aix-Marseille. Je cherche un
 
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MattiasGervilliers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MattiasGervilliers&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MattiasGervilliers&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MattiasGervilliers&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
 
@@ -74,7 +74,7 @@ I'm a first year student at a IT BUT in Aix. I'm currently looking to an apprent
 
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MattiasGervilliers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MattiasGervilliers&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MattiasGervilliers&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MattiasGervilliers&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
