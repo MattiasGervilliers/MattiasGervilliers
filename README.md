@@ -6,31 +6,32 @@
 ## A propos de moi
 
 Je m'appelle Mattias Gervilliers. 
-Je suis un étudiant de 1ère année de BUT Info à Aix-Marseille. Je cherche une entreprise prête à m'accueillir pour ma deuxième et troisième année en alternance autour d'Aix en Provence et Marseille. 
+Je suis un étudiant de 2eme année de BUT Info à Aix-Marseille. Actuellement en alternance, je travaille pour Airbus Helicopters sur des applications pour favoriser la transition vers le numérique
 
 ## Me contacter
 
 - 📧 : [mattias.gervilliers@etu.univ-amu.fr](mailto:mattias.gervilliers@etu.univ-amu.fr)
-- 📞 : +33 7 82 99 73 07 
 - [**LinkedIn** : Mattias Gervilliers](https://www.linkedin.com/in/mattias-gervilliers-511b37230)
 
 ## Mes compétences
 
-- Python : 7/10
-- HTML & CSS : 6/10
-- Java : 5/10
-- C++ : 4/10
-- JavaScript : 3/10
-- SQL : 3/10
+SQL (MySQL, Oracle, PGSQL), Python, PHP (et Symfony), JavaScript / TypeScript (et Angular)
+Connaissances de base : Java (et JavaFX), C++
 
 ## Mes projets
+
+### Projets de Première année 
 
 - Création d'un space invader en mode console (C++) : [lien](https://github.com/MattiasGervilliers/Space-Invaders)
 - Création d'un tournoi à système suisse et de mini jeux (C++)
 - Mise en place d'un site internet sur le Pi Network (HTML / CSS) : [lien](https://github.com/MattiasGervilliers/pinetwork.github.io)
-- Développement d'un plugin Minecraft pour créer un ascenseur (Java) : [lien](https://github.com/MattiasGervilliers/MinecraftElevator)
 - Développement d'une stratégie de communication pour une association
 - Mise en place d'une base de données Météo et statistiques sur la base avec Pandas (Python)
+- Création d'une application de cartographie des usages numérique 
+
+### Projets de Seconde année
+
+Création d'un serious game en ligne sur la protection et la confidentialité des données (Symfony, ReactJS) : [data-city](https://www.data-city.fr/)
 
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
@@ -46,24 +47,21 @@ Je suis un étudiant de 1ère année de BUT Info à Aix-Marseille. Je cherche un
 ## About me
 
 I'm Mattias Gervilliers.
-I'm a first year student at a IT BUT in Aix. I'm currently looking to an apprenticeship around Aix or Marseille.
+I'm a second year student at a IT BUT in Aix. Currently in work-study program, I work for Airbus Helicopters on 2 applications to facilitate transition to numeric.
 
 ## Contact me
 
 - 📧 : [mattias.gervilliers@etu.univ-amu.fr](mailto:mattias.gervilliers@etu.univ-amu.fr)
-- 📞 : +33 7 82 99 73 07 
 - [**LinkedIn** : Mattias Gervilliers](https://www.linkedin.com/in/mattias-gervilliers-511b37230)
 
 ## My skills
 
-- Python : 7/10
-- HTML & CSS : 6/10
-- Java : 5/10
-- C++ : 4/10
-- JavaScript : 3/10
-- SQL : 3/10
+SQL (MySQL, Oracle, PGSQL), Python, PHP (and Symfony), JavaScript / TypeScript (and Angular)
+Basic knowledge : Java (et JavaFX), C++
 
 ## My projects
+
+### First year projects
 
 - Space Invader in console mode (C++) : [link](https://github.com/MattiasGervilliers/Space-Invaders)
 - Swiss system tournament and mini-games (C++)
@@ -71,6 +69,12 @@ I'm a first year student at a IT BUT in Aix. I'm currently looking to an apprent
 - Minecraft plugin to create an elevator (Java) : [link](https://github.com/MattiasGervilliers/MinecraftElevator)
 - Communication strategy for an association
 - Meteo data base and statistics using Pandas (Oracle SQL & Python)
+- Application to map the numeric usages in National Education (JavaFX)
+
+### Second year projects
+
+Web serious game about protecting and confidentiality/privact of your data (Symfony & ReactJS) : [data-city](https://www.data-city.fr/)
+
 
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
