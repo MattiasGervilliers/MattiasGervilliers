@@ -6,17 +6,25 @@
 ## A propos de moi
 
 Je m'appelle Mattias Gervilliers. 
-Je suis un étudiant de 2eme année de BUT Info à Aix-Marseille. Actuellement en alternance, je travaille pour Airbus Helicopters sur des applications pour favoriser la transition vers le numérique
+Je suis un étudiant qui vient de finir sa 3eme année de BUT Info à Aix-Marseille. Ensuite admis en école d'ingénieur au CESI. Actuellement en alternance, je travaille pour Airbus Helicopters sur des applications web pour favoriser la transition vers le numérique.
 
 ## Me contacter
 
-- 📧 : [mattias.gervilliers@etu.univ-amu.fr](mailto:mattias.gervilliers@etu.univ-amu.fr)
+- 📧 : [gervilliersm@gmail.com](mailto:gervilliersm@gmail.com)
 - [**LinkedIn** : Mattias Gervilliers](https://www.linkedin.com/in/mattias-gervilliers-511b37230)
 
 ## Mes compétences
 
-SQL (MySQL, Oracle, PGSQL), Python, PHP (et Symfony), JavaScript / TypeScript (et Angular)
-Connaissances de base : Java (et JavaFX), C++
+### Avancé
+PHP 8 et Symfony 7.
+JavaScript/TypeScript et Angular 16.
+Git.
+
+### Intermédiaire
+SQL, Python, NuxtJS, MongoDB, Java.
+
+### Notions
+React, Elasticsearch, JupyterNotebook, C++.
 
 ## Mes projets
 
@@ -33,6 +41,15 @@ Connaissances de base : Java (et JavaFX), C++
 
 Création d'un serious game en ligne sur la protection et la confidentialité des données (Symfony, ReactJS) : [data-city](https://www.data-city.fr/)
 
+### Projets de Troisième année
+
+- Création d'un site vitrine pour le défilé du département GEA (Odoo)
+- Création d'un site web vitrine pour le Magasin Connecté 4.0 pour l'université d'Aix-Marseille (NuxtJS) : [https://pp-magasin-connecte-40.syrius-development.fr](https://pp-magasin-connecte-40.syrius-development.fr/)
+
+### Auto-entreprise
+
+Refonte complète du site de l'association Générations Solidarités : [https://syrius-development.alwaysdata.net/preprod-generations-solidarities/index.php](https://syrius-development.alwaysdata.net/preprod-generations-solidarities/index.php)
+
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MattiasGervilliers&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -47,17 +64,25 @@ Création d'un serious game en ligne sur la protection et la confidentialité de
 ## About me
 
 I'm Mattias Gervilliers.
-I'm a second year student at a IT BUT in Aix. Currently in work-study program, I work for Airbus Helicopters on 2 applications to facilitate transition to numeric.
+I just finised my third year as a student at an IT BUT in Aix. Now accepted into an Engineer School : CESI. I am currently in a work-study program : I work for Airbus Helicopters on 2 applications to facilitate transition to numeric.
 
 ## Contact me
 
-- 📧 : [mattias.gervilliers@etu.univ-amu.fr](mailto:mattias.gervilliers@etu.univ-amu.fr)
+- 📧 : [gervilliersm@gmail.com](mailto:gervilliersm@gmail.com)
 - [**LinkedIn** : Mattias Gervilliers](https://www.linkedin.com/in/mattias-gervilliers-511b37230)
 
 ## My skills
 
-SQL (MySQL, Oracle, PGSQL), Python, PHP (and Symfony), JavaScript / TypeScript (and Angular)
-Basic knowledge : Java (et JavaFX), C++
+### Advanced
+PHP 8 and Symfony 7.
+JavaScript/TypeScript and Angular 16.
+Git.
+
+### Intermediate
+SQL, Python, NuxtJS, MongoDB, Java.
+
+### Basic knowledge
+React, Elasticsearch, JupyterNotebook, C++.
 
 ## My projects
 
@@ -75,6 +100,14 @@ Basic knowledge : Java (et JavaFX), C++
 
 Web serious game about protecting and confidentiality/privact of your data (Symfony & ReactJS) : [data-city](https://www.data-city.fr/)
 
+### Third year projects
+
+- Creation of a storefront webite for the parade organized by the GEA department (Odoo)
+- Creation of a storefront website for the "Magasin Connecté 4.0" as asked by Aix-Marseille university (NuxtJS) : [https://pp-magasin-connecte-40.syrius-development.fr](https://pp-magasin-connecte-40.syrius-development.fr/)
+
+### Self-employed business
+
+Complete redesign of the website for the association Générations Solidarités : [https://syrius-development.alwaysdata.net/preprod-generations-solidarities/index.php](https://syrius-development.alwaysdata.net/preprod-generations-solidarities/index.php)
 
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
