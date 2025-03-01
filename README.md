@@ -46,9 +46,13 @@ Création d'un serious game en ligne sur la protection et la confidentialité de
 - Création d'un site vitrine pour le défilé du département GEA (Odoo)
 - Création d'un site web vitrine pour le Magasin Connecté 4.0 pour l'université d'Aix-Marseille (NuxtJS) : [https://pp-magasin-connecte-40.syrius-development.fr](https://pp-magasin-connecte-40.syrius-development.fr/)
 
+### Projets du CESI
+
+- Création d'une application Windows de sauvegarde en mode Console et Interface graphique. Mise en place d'une CI/CD avec Github Actions. [EasySave](https://github.com/MattiasGervilliers/EasySave)
+
 ### Auto-entreprise
 
-Refonte complète du site de l'association Générations Solidarités : [https://syrius-development.alwaysdata.net/preprod-generations-solidarities/index.php](https://syrius-development.alwaysdata.net/preprod-generations-solidarities/index.php)
+Refonte complète du site de l'association Générations Solidarités : [https://www.generations-solidarites.org/](https://www.generations-solidarites.org/)
 
 <p align="center">
 <a href="https://github.com/MattiasGervilliers">
@@ -104,6 +108,10 @@ Web serious game about protecting and confidentiality/privact of your data (Symf
 
 - Creation of a storefront webite for the parade organized by the GEA department (Odoo)
 - Creation of a storefront website for the "Magasin Connecté 4.0" as asked by Aix-Marseille university (NuxtJS) : [https://pp-magasin-connecte-40.syrius-development.fr](https://pp-magasin-connecte-40.syrius-development.fr/)
+
+### CESI projects
+
+- Creation of a Windows application for backups in console mode and graphics mode. Implementation of a CI/CD with Github Actions. [EasySave](https://github.com/MattiasGervilliers/EasySave)
 
 ### Self-employed business
 
